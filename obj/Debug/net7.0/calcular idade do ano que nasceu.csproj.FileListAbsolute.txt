@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\bin\Debug\net7.0\calcular idade do ano que nasceu.exe
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\bin\Debug\net7.0\calcular idade do ano que nasceu.deps.json
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\bin\Debug\net7.0\calcular idade do ano que nasceu.runtimeconfig.json
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\bin\Debug\net7.0\calcular idade do ano que nasceu.dll
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\bin\Debug\net7.0\calcular idade do ano que nasceu.pdb
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.dll
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\refint\calcular idade do ano que nasceu.dll
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.pdb
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\calcular idade do ano que nasceu.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\calcular idade do ano que nasceu\obj\Debug\net7.0\ref\calcular idade do ano que nasceu.dll
